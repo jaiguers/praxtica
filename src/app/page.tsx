@@ -29,7 +29,7 @@ export default function Home() {
                 1
               </span>
             </span>
-            Para comenzar un desafío, inicia sesión con GitHub
+            Para comenzar un desafío, inicia sesión
           </h2>
           <div className="max-w-5xl mx-auto">
             <div className="flex justify-center mt-6">
@@ -51,7 +51,7 @@ export default function Home() {
                     clipRule="evenodd"
                   />
                 </svg>
-                Iniciar Sesión con GitHub
+                Comenzar Gratis
               </button>
             </div>
           </div>
